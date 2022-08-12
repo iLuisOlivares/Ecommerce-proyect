@@ -1,0 +1,6 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  /* color: aliceblue; */
+  /* background-color: rgb(42, 41, 41); */
+}
